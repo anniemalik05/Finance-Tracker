@@ -1,0 +1,5 @@
+AI-powered Personal Finance Tracker Summary
+==========================================
+Total Spent: $1260.00
+Budget Limit: $1000
+Status: ⚠️ Budget Exceeded
